@@ -1,1 +1,5 @@
-https://drive.google.com/drive/folders/1-0-R2Qh7M5kWCLyrnNIRtMtjHz1u3VDA?usp=sharing
+blog refered to : https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html
+
+youtube video : https://www.youtube.com/watch?v=XoMiveY_1Z4
+
+Files:  https://drive.google.com/drive/folders/1-0-R2Qh7M5kWCLyrnNIRtMtjHz1u3VDA?usp=sharing
